@@ -1,8 +1,16 @@
-# React + Vite
+###Todo App with Redux, React, Vite, and Tailwind.css
+This is a simple Todo App built using Redux for state management, React for the UI components, Vite for fast development, and Tailwind.css for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features
+Add todo items
+Mark todo items as completed
+Delete todo items
+Filter todo items (All, Completed, Incomplete)
+Search functionality to filter todo items by text
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technologies Used
+Redux
+React
+Vite
+Tailwind.css
+React-icons
