@@ -1,16 +1,16 @@
 <h1 align="center">###Todo App with Redux, React, Vite, and Tailwind.css </h1>
-This is a simple Todo App built using Redux for state management, React for the UI components, Vite for fast development, and Tailwind.css for styling.
+<p>This is a simple Todo App built using Redux for state management, React for the UI components, Vite for fast development, and Tailwind.css for styling.</p>
 
-### Features
-Add todo items
-Mark todo items as completed
-Delete todo items
-Filter todo items (All, Completed, Incomplete)
-Search functionality to filter todo items by text
+<h3>### Features</h3>
+<p>Add todo items</p>
+<p>Mark todo items as completed</p>
+<p>Delete todo items</p>
+<p>Filter todo items (All, Completed, Incomplete)</p>
+<p>Search functionality to filter todo items by text</p>
 
-### Technologies Used
-Redux
-React
-Vite
-Tailwind.css
-React-icons
+<h3>### Technologies Used</h3>
+<p>Redux</p>
+<p>React</p>
+<p>Vite</p>
+<p>Tailwind.css</p>
+<p>React-icons</p>
